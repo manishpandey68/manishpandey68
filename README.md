@@ -1,5 +1,5 @@
-### Hi there 👋
-
+Namaste👋
+I'm Manish Pandey from Hetauda. Love coding and building cool web stuff. When I'm not coding, I'm into playing guitar and tech news. Let's collaborate and make awesome things happen! 🚀
 <!--
 **manishpandey68/manishpandey68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
