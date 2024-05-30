@@ -20,9 +20,8 @@
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-## 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishpandey68&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&hide=issues,contribs)](https://github.com/manishpandey68) <br><br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manishpandey68&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=manishpandey68&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ---
 
