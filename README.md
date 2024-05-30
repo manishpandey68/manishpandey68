@@ -21,8 +21,7 @@
 
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishpandey68&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manishpandey68&theme=dark&hide_border=false)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishpandey68&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&hide=issues,contribs)](https://github.com/manishpandey68) <br><br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manishpandey68&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
